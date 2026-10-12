@@ -21,7 +21,7 @@ TP3-LLM/
 
 ---
 
-## 🛠️ Tecnologías y Requisitos
+## Tecnologías y Requisitos
 
 - **Python:** 3.10 o superior (recomendado 3.13)
 - **Proveedor LLM:** Ollama Cloud (`https://ollama.com/v1`)
