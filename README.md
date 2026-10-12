@@ -4,7 +4,7 @@ Sistema backend automatizado de **triaje y resolución inteligente de reclamos**
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 TP3-LLM/
@@ -33,7 +33,7 @@ TP3-LLM/
 
 ---
 
-## 🚀 Guía de Instalación y Ejecución
+## Guía de Instalación y Ejecución
 
 ### 1. Clonar el repositorio
 ```bash
@@ -80,7 +80,7 @@ pip install -r TP3/requirements.txt
 
 ---
 
-## 🧠 Arquitectura de la Solución
+## Arquitectura de la Solución
 
 El proyecto implementa los tres requerimientos fundamentales de ingeniería de prompts:
 
@@ -100,7 +100,7 @@ El proyecto implementa los tres requerimientos fundamentales de ingeniería de p
 
 ---
 
-## 📊 Resumen del Análisis de Temperatura (Punto 5)
+## Resumen del Análisis de Temperatura (Punto 5)
 
 Durante los experimentos ejecutando el mismo reclamo complejo 3 veces a **Temperatura 0.0** y 3 veces a **Temperatura 1.0**:
 - **Consistencia Estructural:** En ambas temperaturas se obtuvo un 100% de éxito en la validación JSON y estabilidad en decisiones críticas (`necesita_operador_humano = True`, `ACC_ESCALAR_HUMANO`).
